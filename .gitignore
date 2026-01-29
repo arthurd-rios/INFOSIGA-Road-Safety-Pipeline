@@ -205,3 +205,14 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Pastas de dados e modelos (Arquivos pesados)
+data_raw/
+data_processed/
+backup/
+models/
+
+# Arquivos específicos
+*.csv
+*.pbf
+*.pkl
