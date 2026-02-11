@@ -37,6 +37,8 @@ Você pode interagir com o protótipo operacional através dos links abaixo:
 - 🔗 **[Acessar Mapa Interativo (GitHub Pages)](https://arthurd-rios.github.io/INFOSIGA-Road-Safety-Pipeline/animated_map.html)**
 - 🔗 **[Visualizar via NbViewer](https://nbviewer.org/github/arthurd-rios/INFOSIGA-Road-Safety-Pipeline/blob/main/animated_map.html)**
 
----
+
 *Os dados pesados podem ser baixados na aba Releases deste repositório.*
+
+---
 *Projeto desenvolvido por Arthur Domingues Rios - Estudante de Ciência da Computação (USP/ICMC)* # INFOSIGA-Road-Safety-Pipeline
