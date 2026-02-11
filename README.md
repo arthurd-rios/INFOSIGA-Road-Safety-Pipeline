@@ -30,5 +30,12 @@ Este é um MVP focado em fatores estruturais e temporais. Uma possível próxima
 * [ ] Integração com uma API de clima para ingestão de dados meteorológicos históricos (precisão de chuva/neblina).
 * [ ] Refinamento de sazonalidade escolar para diferenciar fluxo de férias vs. letivo.
 
+## 🗺️ Visualização Geoespacial
+
+Você pode interagir com o protótipo operacional através dos links abaixo:
+
+- 🔗 **[Acessar Mapa Interativo (GitHub Pages)](https://arthurd-rios.github.io/INFOSIGA-Road-Safety-Pipeline/animated_map.html)**
+- 🔗 **[Visualizar via NbViewer](https://nbviewer.org/github/arthurd-rios/INFOSIGA-Road-Safety-Pipeline/blob/main/animated_map.html)**
+
 ---
 *Projeto desenvolvido por Arthur Domingues Rios - Estudante de Ciência da Computação (USP/ICMC)*# INFOSIGA-Road-Safety-Pipeline
